@@ -1,1 +1,3 @@
-## This beta
+## About RandomBox
+
+This beta
