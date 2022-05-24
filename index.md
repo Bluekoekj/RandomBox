@@ -9,3 +9,4 @@ It allows you to make your own message box (kind of like ErrorGen, but better an
 
 this needs updating. hamood haibibi
 
+<a href="/">Home
