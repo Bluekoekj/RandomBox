@@ -6,7 +6,7 @@
 
 It allows you to make your own message box (kind of like ErrorGen, but better and built from scratch!).
 
+<a href="https://bluekoekj.github.io/developmentfiles/randomboxvbs.zip">Download the VBS!
 
-this needs updating. hamood haibibi
 
 <a href="/">Home
